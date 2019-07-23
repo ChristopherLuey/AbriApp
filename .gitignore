@@ -24,6 +24,6 @@ ext/mkinstalldirs
 ext/run-tests.php
 ext/.deps
 ext/libtool
-/.idea/
-/.graddle/
-/graddle/
+.idea/
+.graddle/
+graddle/
